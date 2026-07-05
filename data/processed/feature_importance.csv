@@ -1,0 +1,58 @@
+feature,importance
+recency_days,0.11960359617374382
+purchase_frequency_monthly,0.09958098027277956
+rfm_score,0.09567267279054048
+formula_clv_12m,0.07950306633045644
+total_quantity,0.07533417229748478
+gross_revenue,0.06352268640634089
+net_revenue,0.06280689840650545
+tenure_days,0.06258664802631887
+order_count,0.04509474074493225
+customer_age_days,0.04348181770645574
+line_count,0.041823905434309736
+avg_order_value,0.039773998402563675
+avg_items_per_order,0.03925136293030899
+unique_products,0.038998670271355
+avg_unit_price,0.03826872264298877
+return_revenue,0.02578146451236537
+return_rate,0.024266819800246184
+country_United Kingdom,0.0023940974971990276
+country_Germany,0.001338503285457464
+country_France,0.00035774474731608424
+country_Netherlands,0.000149136766470496
+country_Belgium,0.00014464358825818749
+country_Portugal,5.319153098129382e-05
+country_Australia,3.666523487086536e-05
+country_Denmark,3.3443160084397586e-05
+country_Spain,2.968959229419225e-05
+country_Channel Islands,2.8069727724873978e-05
+country_Sweden,2.769712874680458e-05
+country_Japan,1.5011940531091981e-05
+country_Finland,1.2336318319516747e-05
+country_USA,9.462375206132038e-06
+country_Italy,7.389863684730987e-06
+country_Austria,4.224458970639948e-06
+country_Norway,3.795537381716419e-06
+country_Switzerland,2.1429651529120646e-06
+country_Canada,5.311316536426949e-07
+country_Bahrain,0.0
+country_Cyprus,0.0
+country_Brazil,0.0
+country_Greece,0.0
+country_European Community,0.0
+country_Malta,0.0
+country_Lithuania,0.0
+country_Korea,0.0
+country_Iceland,0.0
+country_Israel,0.0
+country_EIRE,0.0
+country_Czech Republic,0.0
+country_Nigeria,0.0
+country_Singapore,0.0
+country_Saudi Arabia,0.0
+country_RSA,0.0
+country_Poland,0.0
+country_Thailand,0.0
+country_United Arab Emirates,0.0
+country_Unspecified,0.0
+country_West Indies,0.0

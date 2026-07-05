@@ -1,0 +1,9 @@
+metric,value
+clean_transaction_rows,1061164
+raw_rows_loaded,1061164
+customers,5939
+date_min,2009-12-01
+date_max,2011-12-09
+cancelled_or_return_lines,19494
+countries,43
+product_categories,9
